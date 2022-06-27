@@ -1,0 +1,31 @@
+{
+    "Header": {
+        "grid-area": "head"
+    },
+    "Title": {
+        "margin":"0",
+        "font-family": "'Times New Roman', Times, serif",
+        "font-size": "2rem"
+    },
+    "Interface": {
+        "textAlign":"right",
+        "marginBottom":"1rem",
+        "width": "100%",
+        "min-height": "3.5rem",
+        "font-size": "3rem"
+    },
+    "Key": {
+        "font-size": "3rem",
+        "text-align": "center",
+        "width": "100%"
+    },
+    "Main": {
+        "margin": "3rem 20%",
+        "display": "grid",
+        "grid-template-columns":"25% 25% 25% 25%",
+        "column-gap": "1.5rem",
+        "grid-template-rows": "20% 20% 20% 20% 20%",
+        "row-gap": "1.5rem",
+        "grid-template-areas": "'head head head head' 'key7 key8 key9 key10' 'key4 key5 key6 key11' 'key1 key2 key3 key12' 'key14 key0 key15 key13'"
+    }
+}
