@@ -1,3 +1,11 @@
+# Calculator in React
+
+This project is a test project used to learn React. It's not optimized.
+
+### Note
+
+Division is an integer division.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
